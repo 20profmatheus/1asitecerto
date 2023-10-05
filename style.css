@@ -1,0 +1,40 @@
+body {
+    
+}
+
+#paisagemsite {
+    width: 50;
+   margin-left: 40%;
+    }
+
+.principal {
+    background: #CCCCCC;
+    padding: 30px;
+}
+
+h1{
+    text-align: center
+}
+p {
+    text-align: center;    
+}
+
+#nasaulas {
+    font-size: 20px;
+}
+
+strong {
+    color: red;
+}
+
+.itens {
+    font-size: italic;
+}
+
+.benefícios {
+    background: white;
+}
+
+h3{
+    text-align: center;
+}
