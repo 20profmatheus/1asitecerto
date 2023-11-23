@@ -1,5 +1,5 @@
 body {
-    background-color:darkturquoise
+    background-color:azure;
 }
 
 #imgsite {
@@ -13,7 +13,7 @@ body {
     }
 
 .principal {
-    background-color: darkcyan;
+    background-color:rgb(190, 243, 243)
     padding: 30px;
 }
 
