@@ -39,8 +39,10 @@ strong {
     font-size: italic;
 }
 
-.benefícios {
-    background: white;
+.Benefícios {
+    text-align: center;
+    font: 40px;
+    list-style-position: inside;
 }
 
 h3{
