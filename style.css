@@ -43,6 +43,7 @@ strong {
     text-align: center; 
     font: 60px;
     list-style-position: inside;
+    display: inline-block;
 }
 
 h3{
