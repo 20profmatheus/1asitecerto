@@ -1,5 +1,5 @@
 body {
-    background-color: beige;
+    background-color:darkturquoise
 }
 
 #imgsite {
@@ -13,7 +13,7 @@ body {
     }
 
 .principal {
-    background: #CCCCCC;
+    background-color: darkcyan;
     padding: 30px;
 }
 
